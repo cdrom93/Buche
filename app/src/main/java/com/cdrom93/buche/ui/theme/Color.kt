@@ -1,4 +1,4 @@
-package com.example.buche.ui.theme
+package com.cdrom93.buche.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
@@ -32,4 +32,3 @@ val DarkInfoCard = Color(0xFF223344) // A darker blue
 val DarkOnInfoCard = Color(0xFFD0E0F0)
 val DarkButtonSelected = Color(0xFF4ECDC4)
 val DarkOnButtonSelected = Color.Black
-

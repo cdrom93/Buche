@@ -5,15 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.buche"
-    compileSdk {
-        version = release(36)
-    }
+    namespace = "com.cdrom93.buche"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.buche"
+        applicationId = "com.cdrom93.buche"
         minSdk = 21
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

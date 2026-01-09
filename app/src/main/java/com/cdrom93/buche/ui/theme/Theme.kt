@@ -1,4 +1,4 @@
-package com.example.buche.ui.theme
+package com.cdrom93.buche.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

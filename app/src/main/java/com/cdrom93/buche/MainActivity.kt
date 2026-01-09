@@ -1,4 +1,4 @@
-package com.example.buche
+package com.cdrom93.buche
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -31,7 +31,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.buche.ui.theme.*
+import com.cdrom93.buche.ui.theme.*
 import java.text.DecimalFormat
 
 data class WeightRange(val min: Int, val max: Int)
