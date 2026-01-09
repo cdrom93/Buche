@@ -1,0 +1,12 @@
+Bûche & Stère is the essential tool for anyone using firewood.
+
+This simple and modern application allows you to:
+- Precisely convert your steres of wood into cubic meters (m³) and vice versa.
+- Adapt calculations according to the length of your logs (20, 25, 30, 33, 40, 45, 50 cm or 1m).
+- Take into account whether your wood is neatly stacked or delivered in bulk.
+- Estimate the weight of your order according to the type of wood (Oak, Beech, Hornbeam, Ash, Chestnut, Birch, Poplar, Fir/Spruce, Pine).
+- Calculate the total price of your purchase, whether the price is given per stere or per m³.
+
+The application respects your privacy, is fully open-source and offers a dark mode for optimal user comfort.
+
+Calculation source: boisreduc.com

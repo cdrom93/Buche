@@ -1,0 +1,12 @@
+Bûche & Stère est l'outil indispensable pour tous ceux qui utilisent du bois de chauffage. 
+
+Cette application simple et moderne vous permet de :
+- Convertir précisément vos stères de bois en mètres cubes (m³) et inversement.
+- Adapter les calculs selon la longueur de vos bûches (20, 25, 30, 33, 40, 45, 50 cm ou 1m).
+- Prendre en compte si votre bois est soigneusement rangé ou livré en vrac.
+- Estimer le poids de votre commande selon l'essence du bois (Chêne, Hêtre, Charme, Frêne, Châtaignier, Bouleau, Peuplier, Sapin/Épicéa, Pin).
+- Calculer le prix total de votre achat, que le prix soit donné au stère ou au m³.
+
+L'application respecte votre vie privée, est entièrement open-source et propose un mode sombre pour un confort d'utilisation optimal.
+
+Source des calculs : boisreduc.com
