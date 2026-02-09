@@ -11,7 +11,8 @@ Une application Android simple et moderne pour convertir des stères de bois en 
 - Interface moderne avec support du mode sombre.
 
 ## Source des données
-Les coefficients de conversion et les données de densité proviennent de [BoisRéduc](https://www.boisreduc.com/blog/calcul-stere-bois-buches-m3).
+Les coefficients de conversion proviennent de [BoisRéduc](https://www.boisreduc.com/blog/calcul-stere-bois-buches-m3).
 
+Les données de densité proviennent de Combustible [Gruchy](https://www.combustibles-gruchy.fr/blog/poids-stere-de-bois-calcul).
 ## Licence
 Ce projet est sous licence Apache 2.0. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
