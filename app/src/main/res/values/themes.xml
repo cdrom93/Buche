@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.Buche" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Thème de base stable pour application Compose -->
+    <style name="Theme.Buche" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Configuration minimale pour éviter les conflits avec Compose -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
 </resources>
